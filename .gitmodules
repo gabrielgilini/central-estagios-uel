@@ -1,0 +1,9 @@
+[submodule "plugins/migrations"]
+	path = plugins/migrations
+	url = git://github.com/jrbasso/migrations.git
+[submodule "plugins/cake_ptbr"]
+	path = plugins/cake_ptbr
+	url = git://github.com/gabrielgilini/cake_ptbr.git
+[submodule "plugins/MeioUpload"]
+	path = plugins/MeioUpload
+	url = git://github.com/jrbasso/MeioUpload.git
